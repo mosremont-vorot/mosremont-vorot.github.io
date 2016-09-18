@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<blog>
+  <channel>
+    <item>
+      <title><![CDATA[New entry]]></title>
+      <description><![CDATA[&nbsp;&nbsp;]]></description>
+      <pubDate>Sat, 17 Sep 2016 14:15:28 GMT</pubDate>
+      <link />
+      <thumbnail />
+      <thumbnailW />
+      <thumbnailH />
+    </item>
+  </channel>
+</blog>
